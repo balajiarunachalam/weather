@@ -1,7 +1,7 @@
 # weather-java
 [![Build Status](https://travis-ci.org/ideaqe/weather-java.svg?branch=develop)](https://travis-ci.org/ideaqe/weather-java)
 
-Regarding API see the [ideaqe/weather](https://github.com/ideaqe/weather) repository.
+Regarding API see the [ideaqe/weather](https://github.com/balajiarunachalam/weather-java) repository.
 
 ## Build
 
@@ -18,7 +18,7 @@ $ java -jar build/libs/weather-all-0.1.0-SNAPSHOT.jar
 ```
 
 
-# IDEA QE Weather Sample
+# QE Weather Sample
 
 ## API
 
@@ -85,5 +85,3 @@ $ java -jar build/libs/weather-all-0.1.0-SNAPSHOT.jar
 ```
 
 
-## Implementations
-We've got two implementations in place for you to. Feel free to either choose [Java](https://github.com/ideaqe/weather-java) or [Python](https://github.com/ideaqe/weather-python).
