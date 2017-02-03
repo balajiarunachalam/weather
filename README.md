@@ -1,5 +1,5 @@
-# weather-java - craft demo
-[![Build Status](https://travis-ci.org/balajiarunachalam/weather-java.svg?branch=develop)](https://travis-ci.org/balajiarunchalam/weather-java)
+# weather-java - craft demo 2
+[![Build Status](https://travis-ci.org/balajiarunachalam/weather.svg?branch=develop)](https://travis-ci.org/balajiarunchalam/weather)
 
 Regarding API see the [weather](https://github.com/balajiarunachalam/weather-java) repository.
 
